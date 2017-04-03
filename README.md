@@ -5,6 +5,7 @@ I think the reason CSS is so confusing for me is that it gives the same treatmen
 ```css
 .thing {
   color: green;
+  position: relative;
   display: inline-flex;
   background-image: url(img/cat.gif);
   height: 400%;
@@ -86,14 +87,20 @@ Perhaps a better way to start is by sorting into categories of paint and layout.
 
 ## Other categorization schemes
 
-- CSS versions
-- Most useful
+- By CSS version
+- Most useful / used
 - Patterns of use (atomic abstractions)
-- Application to display modes
-- shorthands (as functions)
+- Application to display modes / position values
+- Shorthands
 
 
+## Application to display modes / position values
 
+Under `position: absolute` or `position: fixed` it doesn't matter whether you set display to block or inline. Flex still matters because that deals with the layout of children.
+
+`position: static` causes an element to be inflated by its content. Top, right, bottom, and left are ignored. Width and height are still used.
+
+Under `display: inline` width and height are ignored.
 
 
 
