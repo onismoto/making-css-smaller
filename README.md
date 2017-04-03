@@ -75,13 +75,24 @@ Perhaps a better way to start is by sorting into categories of paint and layout.
 - `background`
 - `z-index`
 - `visibility`
-- `text-decoration
+- `text-decoration`
 
 ### Layout 
 
 - `display`
 - `position`
-... pretty much everything else
+- ... pretty much everything else
+
+
+## Other categorization schemes
+
+- CSS versions
+- Most useful
+- Patterns of use (atomic abstractions)
+- Application to display modes
+- shorthands (as functions)
+
+
 
 
 
