@@ -9,6 +9,7 @@ I think the reason CSS is so confusing for me is that it gives the same treatmen
   background-image: url(img/cat.gif);
   height: 400%;
   transition: opacity 1.2s ease-in-out;
+  transform: translateX(10rem);
 }
 ```
 
@@ -53,7 +54,11 @@ In our current reality we may be able to make CSS conceptually smaller by sortin
 
 - `border-radius`
 
+### Motion
 
+- `transition`
+- `animation-duration`
+- `animation-name`
 
 
 
