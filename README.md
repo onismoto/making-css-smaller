@@ -92,6 +92,7 @@ Perhaps a better way to start is by sorting into categories of paint and layout.
 - Patterns of use (atomic abstractions)
 - Application to display modes / position values
 - Shorthands
+- inheritted or not
 
 
 ## Application to display modes / position values
