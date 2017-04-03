@@ -60,6 +60,13 @@ In our current reality we may be able to make CSS conceptually smaller by sortin
 - `animation-duration`
 - `animation-name`
 
+These categories are murky at best.
+
+
+## Taxonomy
+
+Perhaps a better way to start is by sorting into categories of paint and flow.
+
 
 
 
