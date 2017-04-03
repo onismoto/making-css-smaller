@@ -1,4 +1,4 @@
-# making-css-smaller
+# Making CSS Smaller
 
 I think the reason CSS is so confusing for me is that it gives the same treatment to a lot of unrelated concepts.
 
