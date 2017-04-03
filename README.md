@@ -19,3 +19,42 @@ Three or four hundred of these properties fall under the same umbrella of presen
 ## Grouping Properties
 
 In our current reality we may be able to make CSS conceptually smaller by sorting its properties into categories.
+
+### Typography
+
+- `font-family`
+- `font-size`
+- `font-style`
+- `font-weight`
+- `text-align`
+- `text-shadow`
+- `text-decoration`
+- `text-indent`
+- `text-overflow`
+- `text-transform`
+- `color`
+
+### Placement
+
+- `top`
+- `right`
+- `bottom`
+- `left`
+- `margin`
+
+### Size
+
+- `width`
+- `height`
+- `padding`
+- `border`
+
+### Shape 
+
+- `border-radius`
+
+
+
+
+
+
