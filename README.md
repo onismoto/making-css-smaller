@@ -10,6 +10,7 @@ I think the reason CSS is so confusing for me is that it gives the same treatmen
   height: 400%;
   transition: opacity 1.2s ease-in-out;
   transform: translateX(10rem);
+  perspective: inherit;
 }
 ```
 
@@ -60,12 +61,29 @@ In our current reality we may be able to make CSS conceptually smaller by sortin
 - `animation-duration`
 - `animation-name`
 
-These categories are murky at best.
+These categories are murky and incomplete.
 
 
-## Taxonomy
+## Grouping Properties v2
 
-Perhaps a better way to start is by sorting into categories of paint and flow.
+Perhaps a better way to start is by sorting into categories of paint and layout.
+
+### Paint
+
+- `color`
+- `outline`
+- `background`
+- `z-index`
+- `visibility`
+- `text-decoration
+
+### Layout 
+
+- `display`
+- `position`
+... pretty much everything else
+
+
 
 
 
