@@ -11,4 +11,4 @@ height: 400%;
 }
 ```
 
-The properties fall under the umbrella of presentation.
+Hundreds of properties fall under the umbrella of presentation. I like to imagine an alternate reality where separation of concerns extends into categories like typography, placement, size, shape, and motion.
