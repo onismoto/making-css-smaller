@@ -4,10 +4,11 @@ I think the reason CSS is so confusing for me is that it gives the same treatmen
 
 ```css
 .thing {
-color: green;
-display: inline;
-background-image: url(img/cat.gif);
-height: 400%;
+  color: green;
+  display: inline;
+  background-image: url(img/cat.gif);
+  height: 400%;
+  transition: opacity 1.2s ease-in-out;
 }
 ```
 
