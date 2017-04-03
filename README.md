@@ -12,4 +12,6 @@ I think the reason CSS is so confusing for me is that it gives the same treatmen
 }
 ```
 
-Hundreds of properties fall under the umbrella of presentation. I like to imagine an alternate reality where separation of concerns extends into categories like typography, placement, size, shape, and motion.
+## Separation of Concerns
+
+Three or four hundred of these properties fall under the same umbrella of presentation. I like to imagine an alternate reality where SoC includes categories like typography, placement, size, shape, and motion.
